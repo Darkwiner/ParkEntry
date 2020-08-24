@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1569507829 source:c:\users\nicopc\desktop\obligatorio entrega\programa\boolean.cpp
+	"boolean.h"
+
+1569260834 c:\users\nicopc\desktop\obligatorio entrega\programa\boolean.h
+	<stdio.h>
+
+1569510512 source:c:\users\nicopc\desktop\obligatorio entrega\programa\familia.cpp
+	"familia.h"
+
+1569507477 c:\users\nicopc\desktop\obligatorio entrega\programa\familia.h
+	"horaEntrada.h"
+	"socioOno.h"
+	"socio.h"
+	"tipoSocio.h"
+	"string.h"
+
+1569507519 c:\users\nicopc\desktop\obligatorio entrega\programa\horaentrada.h
+	<stdio.h>
+	"boolean.h"
+
+1569508646 c:\users\nicopc\desktop\obligatorio entrega\programa\socioono.h
+	"boolean.h"
+
+1569228826 c:\users\nicopc\desktop\obligatorio entrega\programa\socio.h
+	"fecha.h"
+	"tipoSocio.h"
+
+1569283054 c:\users\nicopc\desktop\obligatorio entrega\programa\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1569228836 c:\users\nicopc\desktop\obligatorio entrega\programa\tiposocio.h
+	<stdio.h>
+
+1569228832 c:\users\nicopc\desktop\obligatorio entrega\programa\string.h
+	"boolean.h"
+
+1569284000 source:c:\users\nicopc\desktop\obligatorio entrega\programa\fecha.cpp
+	"fecha.h"
+
+1569507519 source:c:\users\nicopc\desktop\obligatorio entrega\programa\horaentrada.cpp
+	"horaEntrada.h"
+
+1569544325 source:c:\users\nicopc\desktop\obligatorio entrega\programa\main.cpp
+	"menu.h"
+	"parque.h"
+
+1569502986 c:\users\nicopc\desktop\obligatorio entrega\programa\menu.h
+	<stdio.h>
+
+1569506983 c:\users\nicopc\desktop\obligatorio entrega\programa\parque.h
+	"familia.h"
+
+1569508249 source:c:\users\nicopc\desktop\obligatorio entrega\programa\menu.cpp
+	"menu.h"
+
+1569547798 source:c:\users\nicopc\desktop\obligatorio entrega\programa\parque.cpp
+	"parque.h"
+	"string.h"
+	"horaEntrada.h"
+
+1569508083 source:c:\users\nicopc\desktop\obligatorio entrega\programa\socio.cpp
+	"socio.h"
+
+1569508646 source:c:\users\nicopc\desktop\obligatorio entrega\programa\socioono.cpp
+	"socioOno.h"
+
+1569228830 source:c:\users\nicopc\desktop\obligatorio entrega\programa\string.cpp
+	"string.h"
+
+1569500195 source:c:\users\nicopc\desktop\obligatorio entrega\programa\tiposocio.cpp
+	"tipoSocio.h"
+	"boolean.h"
+
+1569507829 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\boolean.cpp
+	"boolean.h"
+
+1569260834 c:\users\admin\downloads\obligatorio p2\obligatorio p2\boolean.h
+	<stdio.h>
+
+1569510512 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\familia.cpp
+	"familia.h"
+
+1569507477 c:\users\admin\downloads\obligatorio p2\obligatorio p2\familia.h
+	"horaEntrada.h"
+	"socioOno.h"
+	"socio.h"
+	"tipoSocio.h"
+	"string.h"
+
+1569507519 c:\users\admin\downloads\obligatorio p2\obligatorio p2\horaentrada.h
+	<stdio.h>
+	"boolean.h"
+
+1569508646 c:\users\admin\downloads\obligatorio p2\obligatorio p2\socioono.h
+	"boolean.h"
+
+1569228826 c:\users\admin\downloads\obligatorio p2\obligatorio p2\socio.h
+	"fecha.h"
+	"tipoSocio.h"
+
+1569283054 c:\users\admin\downloads\obligatorio p2\obligatorio p2\fecha.h
+	<stdio.h>
+	"boolean.h"
+
+1569228836 c:\users\admin\downloads\obligatorio p2\obligatorio p2\tiposocio.h
+	<stdio.h>
+
+1569228832 c:\users\admin\downloads\obligatorio p2\obligatorio p2\string.h
+	"boolean.h"
+
+1569284000 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\fecha.cpp
+	"fecha.h"
+
+1569507519 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\horaentrada.cpp
+	"horaEntrada.h"
+
+1569544325 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\main.cpp
+	"menu.h"
+	"parque.h"
+
+1569502986 c:\users\admin\downloads\obligatorio p2\obligatorio p2\menu.h
+	<stdio.h>
+
+1569506983 c:\users\admin\downloads\obligatorio p2\obligatorio p2\parque.h
+	"familia.h"
+
+1569508249 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\menu.cpp
+	"menu.h"
+
+1569547798 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\parque.cpp
+	"parque.h"
+	"string.h"
+	"horaEntrada.h"
+
+1569508083 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\socio.cpp
+	"socio.h"
+
+1569508646 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\socioono.cpp
+	"socioOno.h"
+
+1569228830 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\string.cpp
+	"string.h"
+
+1569500195 source:c:\users\admin\downloads\obligatorio p2\obligatorio p2\tiposocio.cpp
+	"tipoSocio.h"
+	"boolean.h"
+
